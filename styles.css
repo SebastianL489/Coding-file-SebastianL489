@@ -1,3 +1,21 @@
 h2 {
     color:aquamarine;
 }
+
+p {
+    color:yellow;
+    font-weight: bold;
+    font-size: 50px;
+    height : 30px;
+    width : 1000px;
+
+}
+
+img {font-weight: bold;
+    font-size: 50px;
+    height : 30px;
+    width : 1000px;
+    object-position: -10 30;
+    object-position: center top;
+
+}
