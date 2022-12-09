@@ -19,3 +19,20 @@ img {font-weight: bold;
     object-position: center top;
 
 }
+
+footer {
+    width: 100%;
+    color: blanchedalmond;
+    background-color: antiquewhite;
+    position:fixed;
+    bottom: 0;
+    font-size: 1.5em;
+    text-align: center;
+    transition: 1s;
+    transition-delay: 10ms;
+}
+
+footer:hover{
+      color:red;
+      font: size 2em;
+}
