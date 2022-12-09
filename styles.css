@@ -29,7 +29,6 @@ footer {
     font-size: 1.5em;
     text-align: center;
     transition: 1s;
-    transition-delay: 10ms;
 }
 
 footer:hover{
