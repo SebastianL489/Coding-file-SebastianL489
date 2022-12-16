@@ -36,8 +36,7 @@ footer:hover{
       font: size 2em;
 }
 
-<header{
-
+header {
 background-color: rgb(100,102,20);
      color: wheat;
      width: 100%;
@@ -46,4 +45,4 @@ background-color: rgb(100,102,20);
      position: fixed;
      left: 0;
      top: 0;
-</header}     
+}     
