@@ -35,3 +35,15 @@ footer:hover{
       color:red;
       font: size 2em;
 }
+
+<header{
+
+background-color: rgb(100,102,20);
+     color: wheat;
+     width: 100%;
+     height: max-content;
+
+     position: fixed;
+     left: 0;
+     top: 0;
+</header}     
