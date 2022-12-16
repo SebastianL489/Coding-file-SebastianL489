@@ -46,3 +46,8 @@ header {
      left: 0;
      top: 0;
 }     
+
+header li {
+     display: inline;
+     margin: 10px;
+}
