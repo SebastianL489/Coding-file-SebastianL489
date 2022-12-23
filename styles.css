@@ -31,9 +31,9 @@ footer {
     transition: 1s;
 }
 
-footer:hover{
+footer:hover {
       color:red;
-      font: size 2em;
+      font-size: 1.5em;
 }
 
 header {
